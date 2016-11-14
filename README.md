@@ -1,3 +1,5 @@
+![](golang-berlin.jpg)
+
 # Berlin DevFest Go Workshop
 
 Code created during Berlin DevFest Workshop.
@@ -28,5 +30,3 @@ To get a list of the recent comments:
 ```
 GET http://devfestcommentsapp.appspot.com/comments
 ```
-
-![](golang-berlin.jpg)
