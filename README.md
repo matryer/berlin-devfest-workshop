@@ -1,4 +1,4 @@
-![](golang-berlin.jpg)
+![](golang-berlin-logo.jpg)
 
 # Berlin DevFest Go Workshop
 
