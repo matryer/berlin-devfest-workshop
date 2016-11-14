@@ -28,3 +28,5 @@ To get a list of the recent comments:
 ```
 GET http://devfestcommentsapp.appspot.com/comments
 ```
+
+![](golang-berlin.jpg)
